@@ -9,7 +9,10 @@
 - 🎓 Estudando **Engenharia da Computação** na <a href="https://unijorge.edu.br">Unijorge</a>.
 <!--- 💼 Trabalhando como **Desenvolvedor Java** na <a href=""></a>-->
 - 🌱 &nbsp; Aprendendo mais sobre **Spring Boot + React**.
-```Java
+
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+```Java 
 public class MinhaApresentacao {
     public static void main(String[] args) {
         String nome = "Danilo Barreto";
@@ -21,7 +24,6 @@ public class MinhaApresentacao {
         System.out.println("Estou animado para aprender e contribuir no mundo da programação!");
     }
 }
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 ```
 
 
