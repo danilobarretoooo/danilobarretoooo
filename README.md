@@ -2,7 +2,7 @@
 ### Olá!  Eu sou Danilo Barreto. ![imagem](https://raw.githubusercontent.com/danilobbezerra/danilobbezerra/main/imagens/Hi.gif)
 
 ## 🚀 Sobre mim
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -22,6 +22,7 @@ public class MinhaApresentacao {
     }
 }
 ```
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilobarretoooo/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilobarreto.dev/)
 
