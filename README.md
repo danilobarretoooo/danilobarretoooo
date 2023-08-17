@@ -22,10 +22,11 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Estagiario - Tacom | Soluções em mobilidade** \
 [**Tacom**]([ttps://www.spacex.com/](https://tacom.com.br)](https://tacom.com.br)) • Meio-Periodo \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Tacom](https://tacom.com.br/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Projetos em destaque: [Tacom](https://tacom.com.br/)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Tacom" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>]()
+[<img align="left" height="94px" width="94px" alt="Tacom" src="![imagem](https://github.com/danilobarretoooo/danilobarretoooo/assets/120517434/131fbdc4-b325-4319-86e6-4c6f9cd59866)
+">]()
 
 
 
