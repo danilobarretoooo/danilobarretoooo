@@ -31,7 +31,7 @@ public class MinhaApresentacao {
 
 ![Danilo Barreto GitHub stats](https://github-readme-stats.vercel.app/api?username=danilobarretoooo&show_icons=true&theme=dracula)
 
-### Experiência de trabalho
+### 💼 Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -39,8 +39,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Estagiario - Tacom | Soluções em mobilidade** \
 [**Tacom**]([ttps://www.spacex.com/](https://tacom.com.br)](https://tacom.com.br)) • Meio-Periodo \
-Linguagens & Tecnologias: `Java`\
-Projetos em destaque: [Tacom](https://tacom.com.br/)
+Linguagens & Tecnologias: `Java`
 <br/>
 
 
