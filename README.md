@@ -17,7 +17,7 @@ A minha trajetória ainda está sendo construída, pois ainda tenho muitos desaf
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://viewnet.com.br/imagem.php?i=58"/>](https://tacom.com.br)
 
 **Estagiario - Tacom | Soluções em mobilidade** \
 [**Tacom**]([ttps://www.spacex.com/](https://tacom.com.br)](https://tacom.com.br)) • Meio-Periodo \
