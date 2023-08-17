@@ -20,7 +20,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
 **Estagiario - Tacom | Soluções em mobilidade** \
-[**SpaceX**](https://www.spacex.com/) • Meio-Periodo \
+[**Tacom**](ttps://www.spacex.com/](https://tacom.com.br)) • Meio-Periodo \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
