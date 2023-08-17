@@ -11,8 +11,8 @@ public class MinhaApresentacao {
         String profissao = "Estudante";
         int idade = 24;
         
-        System.out.println("Olá, eu sou " + Danilo Barreto + ".");
-        System.out.println("Tenho " + 24 + " anos e sou " + Estudante + ".");
+        System.out.println("Olá, eu sou " + nome + ".");
+        System.out.println("Tenho " + idade + " anos e sou " + profissao + ".");
         System.out.println("Estou animado para aprender e contribuir no mundo da programação!");
     }
 }
@@ -20,7 +20,7 @@ public class MinhaApresentacao {
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Engenharia da Computação** na <a href="https://unijorge.edu.br">Unijorge</a>.
 <!--- 💼 Trabalhando como **Desenvolvedor Java** na <a href=""></a>-->
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🌱 &nbsp; Aprendendo mais sobre **Spring Boot + React**.
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilobarretoooo/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilobarreto.dev/)
