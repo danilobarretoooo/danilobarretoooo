@@ -6,7 +6,7 @@
 
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Engenharia da Computação** na <a href="https://unijorge.edu.br">Unijorge</a>.
+- 🎓 Estudando **Engenharia da Computação** na <a href="https://unijorge.edu.br" target="_blank">Unijorge</a>.
 <!--- 💼 Trabalhando como **Desenvolvedor Java** na <a href=""></a>-->
 - 🌱 &nbsp; Aprendendo mais sobre **Spring Boot + React**.
 
