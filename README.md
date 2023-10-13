@@ -41,9 +41,9 @@ public class MinhaApresentacao {
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 
-[<img align="left" height="120px" width="240px" alt="Warpnet" 
+<img align="left" height="120px" width="240px" alt="Warpnet" 
 src="https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.webp"/> 
-]**Estagiario - Unentel Distribuição** \
+**Estagiario - Unentel Distribuição** \
 <a href="https://unentel.com.br" target="_blank" rel="noopener noreferrer">**Unentel**</a> • Meio-Periodo \
 Linguagens & Tecnologias: `Java`
 
