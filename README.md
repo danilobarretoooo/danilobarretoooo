@@ -41,11 +41,11 @@ public class MinhaApresentacao {
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 
-[<img align="left" height="180px" width="120px" alt="Warpnet" src="https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.webp"/> 
+[<img align="left" height="120px" width="90px" alt="Warpnet" src="https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.webp"/> 
 **Estagiario - Unentel Distribuição** \
 **Unentel**]([](https://unentel.com.br)) • Meio-Periodo \
 
-
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://viewnet.com.br/imagem.php?i=58"/>](https://tacom.com.br)
 **Estagiario - Tacom | Soluções em mobilidade** \
