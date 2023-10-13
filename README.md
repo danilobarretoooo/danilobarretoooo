@@ -40,9 +40,17 @@ public class MinhaApresentacao {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.webp"/> 
+
+[<img align="left" height="180px" width="120px" alt="Warpnet" src="https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.webp"/> 
 **Estagiario - Unentel Distribuição** \
-[**Unentel**]([](https://unentel.com.br)) • Meio-Periodo \
+**Unentel**]([](https://unentel.com.br)) • Meio-Periodo \
+
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://viewnet.com.br/imagem.php?i=58"/>](https://tacom.com.br)
+**Estagiario - Tacom | Soluções em mobilidade** \
+[**Tacom**]([ttps://www.spacex.com/](https://tacom.com.br)](https://tacom.com.br)) • Meio-Periodo \
+**Tacom**]([](https://tacom.com.br) • Meio-Periodo \
 Linguagens & Tecnologias: `Java`
 <br/>
 
