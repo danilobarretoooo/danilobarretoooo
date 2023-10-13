@@ -44,7 +44,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="120px" width="240px" alt="Warpnet" src="https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.webp"/> 
 
 **Estagiario - Unentel Distribuição** \
-**Unentel**[](https://unentel.com.br)) • Meio-Periodo \
+**Unentel**]([](https://unentel.com.br)) • Meio-Periodo \
 Linguagens & Tecnologias: `Java`
 
 
