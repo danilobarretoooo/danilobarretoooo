@@ -45,7 +45,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 src="https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.webp"/> 
 **Estagiario - Unentel Distribuição** \
 <a href="https://unentel.com.br" target="_blank" rel="noopener noreferrer">**Unentel**</a> • Meio-Periodo \
-Linguagens & Tecnologias: `Java`
+<!-- Linguagens & Tecnologias: `Java`->
 
 
 <br/>
