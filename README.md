@@ -40,7 +40,7 @@ public class MinhaApresentacao {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://viewnet.com.br/imagem.php?i=58](https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.web"/>]([https://unentel.com.br])
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://unentel.com.br/templates/yootheme/cache/5b/5padrao-unentel-5bcb90cc.webp"/>([https://unentel.com.br])
 
 **Estagiario - Unentel Distribuição** \
 [**Unentel**]([](https://unentel.com.br)) • Meio-Periodo \
