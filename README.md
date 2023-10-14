@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot + React**
 
-- 👨‍💻 All of my projects are available at <a href="https://danilobarreto.dev">[danilobarreto.dev](danilobarreto.dev)</a>
+- 👨‍💻 All of my projects are available at <a href="https://danilobarreto.dev" target="_blank">danilobarreto.dev</a>
 
 - 💬 Ask me about **java**
 
