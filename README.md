@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danilo Barreto</h1>
 <h3 align="center">🚀 Sobre mim</h3>
 <p>- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
-<p>- 🎓 Estudando **Engenharia da Computação** na <a href="https://unijorge.edu.br" target="_blank">Unijorge</a></p>
+<p>- 🎓 Estudando <b>Engenharia da Computação</b> na <a href="https://unijorge.edu.br" target="_blank">Unijorge</a></p>
 <p> <!--- 💼 Trabalhando como **Desenvolvedor Java** na <a href=""></a>--></p>
 
 - 🌱 I’m currently learning **Spring Boot + React**
