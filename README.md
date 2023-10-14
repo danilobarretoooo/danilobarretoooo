@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Danilo Barreto</h1>
 <h3 align="center">🚀 Sobre mim</h3>
-<p>- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. - 🎓 Estudando **Engenharia da Computação** na <a href="https://unijorge.edu.br" target="_blank">Unijorge</a>. <!--- 💼 Trabalhando como **Desenvolvedor Java** na <a href=""></a>--></p>
+<p>- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
+<p>- 🎓 Estudando **Engenharia da Computação** na <a href="https://unijorge.edu.br" target="_blank">Unijorge</a></p>
+<p> <!--- 💼 Trabalhando como **Desenvolvedor Java** na <a href=""></a>--></p>
 
 - 🌱 I’m currently learning **Spring Boot + React**
 
-- 👨‍💻 All of my projects are available at [danilobarreto.dev](danilobarreto.dev)
+- 👨‍💻 All of my projects are available at <a href="https://danilobarreto.dev">[danilobarreto.dev](danilobarreto.dev)</a>
 
 - 💬 Ask me about **java**
 
