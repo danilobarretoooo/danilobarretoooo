@@ -2,7 +2,7 @@
 <h3 align="center">🚀 About me </h3>
 <p>- 🤔 Exploring new technologies and developing software solutions.</p>
 <p>- 🎓 Student Software Engineering at <a href="https://www.ucsal.br/" target="_blank">UCSAL</a></p>
-<p> 💼 Working as **Java Backend Developer** at  <a href="https://www.serpro.gov.br/" target="_blank">SERPRO</a></p>
+<p>- 💼 Working as **Java Backend Developer** at  <a href="https://www.serpro.gov.br/" target="_blank">SERPRO</a></p>
 
 - 🌱 I’m currently learning **Spring Boot + React**
 
