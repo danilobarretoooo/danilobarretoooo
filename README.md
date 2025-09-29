@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danilo Barreto</h1>
-<h3 align="center">🚀 Back-end Developer | Java | Spring Boot | React</h3>
+<h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | React</h3>
 
 ---
 
 ### 👨‍💻 About me
 - 🤔 Exploring new technologies and developing software solutions  
-- 🎓 Software Engineering student at [UCSAL](https://www.ucsal.br/)  
-- 🌱 Currently learning **Spring Boot + React**  
+- 🌱 Currently working with **Spring Boot + React**  
 - 👨‍💻 All of my projects are available at [danilobarreto.dev](https://portfolio2024-danilo-barretos-projects.vercel.app/)  
-- 💬 Ask me about **Java, Spring Boot, APIs**  
+- 💬 Ask me about **Java, Spring Boot, React, APIs**  
 - 📫 How to reach me: **eu@danilobarreto.dev**
 
 ---
