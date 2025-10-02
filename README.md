@@ -1,58 +1,62 @@
-<h1 align="center">Hi 👋, I'm Danilo Barreto</h1>
-<h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | React</h3>
+# 👋 Olá, eu sou o Danilo Barreto  
+
+💻 **Fullstack Developer | Java | Spring Boot | React | Angular | Flutter**  
+Apaixonado por tecnologia e sempre buscando aprender, construir e compartilhar conhecimento.  
 
 ---
 
-### 👨‍💻 About me
-- 🤔 Exploring new technologies and developing software solutions  
-- 🌱 Currently working with **Spring Boot + React**  
-- 👨‍💻 All of my projects are available at [danilobarreto.dev](https://portfolio2024-danilo-barretos-projects.vercel.app/)  
-- 💬 Ask me about **Java, Spring Boot, React, APIs**  
-- 📫 How to reach me: **eu@danilobarreto.dev**
+## 🚀 Tecnologias & Ferramentas  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/danilobarretoooo" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/daniloblimaa/" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
+## 📌 Projetos em Destaque  
+
+### 🔹 **System API Auth**
+API de autenticação e autorização segura usando **Spring Boot 3 + JWT + Spring Security**.  
+🔗 [Ver repositório](#)
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### 🔹 **EducaMaisEar**
+Plataforma de ensino inclusiva, com foco em cursos técnicos e engajamento de alunos.  
+Stack: **React + Spring Boot + MySQL**  
+🔗 [Ver repositório](#)
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danilobarretoooo&show_icons=true&theme=tokyonight" alt="danilo stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobarretoooo&layout=compact&theme=tokyonight" alt="danilo langs" height="150"/>
-</p>
+### 🔹 **Gestão de Eventos e Frotas**
+Aplicativo Flutter para controle operacional de eventos, incluindo gestão de frota, manutenção, abastecimento e dashboards em tempo real.  
+🔗 [Ver repositório](#)
 
 ---
 
-### 🚀 Featured Projects:
-- 🛒 [Sales System](https://github.com/danilobarretoooo/system-of-sales) – Full CRUD with Java + MySQL  
-- ⚡ [Bank System](https://github.com/danilobarretoooo/SistemaBancoSimples) – Simple bank operations with OOP  
-- ♟️ [Chess System](https://github.com/danilobarretoooo/chess-system-java) – A chess game implemented in Java  
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Danilo GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilobarretoooo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobarretoooo&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-⭐️ From [Danilo Barreto](https://github.com/danilobarretoooo)
+## 📫 Contato  
+📧 **Email:** danilobc.dev@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/danilobcdev/)  
+🐙 [GitHub](https://github.com/danilobarretoooo)
+
+---
+
+✨ *Sempre aberto a novos desafios e oportunidades para crescer como desenvolvedor.* 🚀
