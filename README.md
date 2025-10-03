@@ -54,7 +54,7 @@ Aplicativo Flutter para controle operacional de eventos, incluindo gestão de fr
 
 ## 📫 Contato  
 📧 **Email:** danilobc.dev@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/danilobcdev/)  
+💼 [LinkedIn](https://www.linkedin.com/in/danilobarretoooo/) 
 🐙 [GitHub](https://github.com/danilobarretoooo)
 
 ---
