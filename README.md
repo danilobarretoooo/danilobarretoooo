@@ -54,8 +54,8 @@ Aplicativo Flutter para controle operacional de eventos, incluindo gestão de fr
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danilobarretoooo&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobarretoooo&layout=compact&hide_border=true&theme=github_dark&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daniloblimaa&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloblimaa&layout=compact&hide_border=true&theme=github_dark&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
