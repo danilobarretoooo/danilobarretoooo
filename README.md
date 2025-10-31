@@ -20,7 +20,7 @@ Aqui você encontrará meus projetos, estudos e experimentos com Java, Spring Bo
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:danilobarreto15@gmail.com">
-    <img src="https://img.shields.io/badge/-danilobc.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-danilobarreto15@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/daniloblimaa">
     <img src="https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white">
