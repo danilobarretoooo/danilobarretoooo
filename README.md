@@ -1,62 +1,65 @@
-# 👋 Olá, eu sou o Danilo Barreto  
+<h1 align="center">👋 Hello, I'm Danilo Barreto</h1>
 
-💻 **Fullstack Developer | Java | Spring Boot | React | Angular | Flutter**  
-Apaixonado por tecnologia e sempre buscando aprender, construir e compartilhar conhecimento.  
+<p align="center">
+  <em>Fullstack Developer • Java | Spring Boot | React | Angular | Flutter</em>
+</p>
 
----
-
-## 🚀 Tecnologias & Ferramentas  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://github.com/danilobarretoooo/danilobarretoooo/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
 ---
 
-## 📌 Projetos em Destaque  
+<p align="center">
+Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções que geram impacto real.  
+Aqui você encontrará meus projetos, estudos e experimentos com Java, Spring Boot, React, Angular e Flutter 🚀
+</p>
 
-### 🔹 **System API Auth**
-API de autenticação e autorização segura usando **Spring Boot 3 + JWT + Spring Security**.  
-🔗 [Ver repositório](https://github.com/daniloblimaa/system-api-auth)
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilobarretoooo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:danilobc.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-danilobc.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/danilobarretoooo">
+    <img src="https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-### 🔹 **EducaMaisEar**
+### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,angular,flutter,mysql,postgres,docker,git,github" />
+</p>
+
+---
+
+### 🚀 Projetos em Destaque  
+
+#### 🔹 [System API Auth](https://github.com/daniloblimaa/system-api-auth)
+API de autenticação e autorização segura usando **Spring Boot 3 + JWT + Spring Security**.
+
+#### 🔹 [EducaMaisEar](#)
 Plataforma de ensino inclusiva, com foco em cursos técnicos e engajamento de alunos.  
-Stack: **React + Spring Boot + MySQL**  
-🔗 [Ver repositório](#)
+Stack: **React + Spring Boot + MySQL**
+
+#### 🔹 [Gestão de Eventos e Frotas](#)
+Aplicativo Flutter para controle operacional de eventos, incluindo gestão de frota, manutenção, abastecimento e dashboards em tempo real.
 
 ---
 
-### 🔹 **Gestão de Eventos e Frotas**
-Aplicativo Flutter para controle operacional de eventos, incluindo gestão de frota, manutenção, abastecimento e dashboards em tempo real.  
-🔗 [Ver repositório](#)
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danilobarretoooo&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobarretoooo&layout=compact&hide_border=true&theme=github_dark&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Danilo GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilobarretoooo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobarretoooo&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 📫 Contato  
-📧 **Email:** danilobc.dev@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/danilobarretoooo/) 
-🐙 [GitHub](https://github.com/danilobarretoooo)
-
----
-
-✨ *Sempre aberto a novos desafios e oportunidades para crescer como desenvolvedor.* 🚀
+<p align="center">
+  <em>Keep learning. Keep building. Keep growing.</em> 💡
+</p>
